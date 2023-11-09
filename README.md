@@ -2,7 +2,7 @@
 - 👀 I’m interested in building biology-related GUI software, and developing algorithms to reveal the profound mystery of biology. 
 - 🌱 I’m currently learning deep learning methods and Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me by hsiaokaifan@gmial.com 
+- 📫 Reach me by hsiaokaifan@gmail.com 
 
 <!---
 HsiaoKaiFan/HsiaoKaiFan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
