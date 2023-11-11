@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HsiaoKaiFan
 - 👀 I’m interested in building biology-related GUI software, and developing algorithms to reveal the profound mystery of biology. 
-- 🌱 I’m currently learning deep learning methods and Rust
+- 🌱 I’m currently learning deep learning methods and Rust, and good at R,python,Shiny for building database
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by hsiaokaifan@gmail.com 
 
